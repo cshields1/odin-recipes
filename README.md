@@ -1,2 +1,3 @@
-<h1>Recipes</h1>
-<p>Simple recipes with basic HTML and CSS.</p>
+# Recipes
+
+<p>Some sample recipes with basic HTML and CSS.</p>

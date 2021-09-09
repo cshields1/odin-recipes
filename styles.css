@@ -1,0 +1,44 @@
+body {
+  background: #afafaf;
+}
+
+h1,
+h2 {
+  font-family: Garamond, Georgia, serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.recipe-container {
+  box-sizing: border-box;
+  border: 2px dashed black;
+  border-radius: 6px;
+  margin: 10px 5px;
+  background: #8242e980;
+}
+
+li {
+  font-family: Garamond, Georgia, serif;
+  font-size: 20px;
+  color: #771212;
+}
+
+img {
+  width: 350px;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+h2 {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: wavy;
+}
